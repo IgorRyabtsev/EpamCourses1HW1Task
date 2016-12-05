@@ -7,3 +7,4 @@
 	javac -sourcepath ./javase01 -d bin javase01/t01/main/Main.java javase01/t01/logic/Logic.java
 запуск:
 	java -classpath ./bin javase01/t01/main/Main	
+
